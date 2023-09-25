@@ -1,0 +1,15 @@
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-Fundamentals2/Fundamentals2/bin/Debug/net6.0/Fundamentals2
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-Fundamentals2/Fundamentals2/bin/Debug/net6.0/Fundamentals2.deps.json
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-Fundamentals2/Fundamentals2/bin/Debug/net6.0/Fundamentals2.runtimeconfig.json
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-Fundamentals2/Fundamentals2/bin/Debug/net6.0/Fundamentals2.dll
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-Fundamentals2/Fundamentals2/bin/Debug/net6.0/Fundamentals2.pdb
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-Fundamentals2/Fundamentals2/obj/Debug/net6.0/Fundamentals2.csproj.AssemblyReference.cache
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-Fundamentals2/Fundamentals2/obj/Debug/net6.0/Fundamentals2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-Fundamentals2/Fundamentals2/obj/Debug/net6.0/Fundamentals2.AssemblyInfoInputs.cache
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-Fundamentals2/Fundamentals2/obj/Debug/net6.0/Fundamentals2.AssemblyInfo.cs
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-Fundamentals2/Fundamentals2/obj/Debug/net6.0/Fundamentals2.csproj.CoreCompileInputs.cache
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-Fundamentals2/Fundamentals2/obj/Debug/net6.0/Fundamentals2.dll
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-Fundamentals2/Fundamentals2/obj/Debug/net6.0/refint/Fundamentals2.dll
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-Fundamentals2/Fundamentals2/obj/Debug/net6.0/Fundamentals2.pdb
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-Fundamentals2/Fundamentals2/obj/Debug/net6.0/Fundamentals2.genruntimeconfig.cache
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-Fundamentals2/Fundamentals2/obj/Debug/net6.0/ref/Fundamentals2.dll
